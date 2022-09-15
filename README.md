@@ -1,6 +1,6 @@
 <h1 align="center">Face Mask Detection</h1>
 
-<div align= "center"><img src="https://github.com/him705075/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
+<div align= "center"><img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
  <h4>Face Mask Detection system built with:--</h4>
 
 </div>
