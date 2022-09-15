@@ -33,7 +33,6 @@ All the dependencies and required libraries are included in the file <code>requi
 
 ## Contributing 👷
 
-* <a href="#" target="_self" title="Fork">Fork</a> the project.
 * Create your Feature Branch
 ```bash
 git checkout -b '<your_branch_name>'
@@ -108,38 +107,9 @@ git checkout '<your_branch_name>'
 </table>
 <br>
 
-## 🚀&nbsp; Installation
-1. Clone the repo
-```
-$ git clone https://github.com/him705075/Face--Mask--Detection.git
-```
-
-2. Change your directory to the cloned repo 
-```
-$ cd Face--Mask--Detection
-```
-
-3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip install -r requirements.txt
-```
-## :bulb: Working
-
 <p align="centre">
   <img src="https://github.com/him705075/Face--Mask--Detection/blob/main/face_mask_detection_phases.png?raw=true">
   
-  
-1. Open terminal. Go into the cloned project directory and type the following command:
-```
-$ python train_mask_detector.py  
-```
-
-2. To detect face masks in real-time video streams type the following command:
-```
-$ python detect_mask_video.py 
-```
-
-
 ## :key: Results
 
 #### This model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow>=1.15.2</code>
