@@ -1,6 +1,6 @@
 <h1 align="center">Face Mask Detection</h1>
 
-<div align= "center"><img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
+<div align= "center"><img src="https://github.com/him705075/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
  <h4>Face Mask Detection system built with:--</h4>
 
 
@@ -11,25 +11,25 @@
 </div>
 <div align="center">
 
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/Ayushparikh-code"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/him705075"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
 
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/watchers"><img src="https://img.shields.io/github/watchers/Ayushparikh-code/Face--Mask--Detection?style=flat"></a> 
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ayushparikh-code/Face--Mask--Detection?color=brightgreen"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/stargazers"><img src="https://img.shields.io/github/stars/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/network/members"><img src="https://img.shields.io/github/forks/Ayushparikh-code/Face--Mask--Detection?color=yellow"></a>
+<a href="https://github.com/him705075e/Face--Mask--Detection/watchers"><img src="https://img.shields.io/github/watchers/him705075/Face--Mask--Detection?style=flat"></a> 
+<a href="https://github.com/him705075/Face--Mask--Detection/graphs/contributors"><img src="https://img.shields.io/github/contributors/him705075/Face--Mask--Detection?color=brightgreen"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection/stargazers"><img src="https://img.shields.io/github/stars/him705075/Face--Mask--Detection?color=0059b3"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection/network/members"><img src="https://img.shields.io/github/forks/him705075/Face--Mask--Detection?color=yellow"></a>
 
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/issues"><img src="https://img.shields.io/github/issues/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=yellow"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls"><img src="https://img.shields.io/github/issues-pr/Ayushparikh-code/Face--Mask--Detection?color=brightgreen"></a>
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Ayushparikh-code/Face--Mask--Detection?color=0059b3"></a>
+<a href="https://github.com/him705075e/Face--Mask--Detection/issues"><img src="https://img.shields.io/github/issues/him705075/Face--Mask--Detection?color=0059b3"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/him705075/Face--Mask--Detection?color=yellow"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection/pulls"><img src="https://img.shields.io/github/issues-pr/him705075/Face--Mask--Detection?color=brightgreen"></a>
+<a href="https://github.com/him705075/Face--Mask--Detection/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/him705075/Face--Mask--Detection?color=0059b3"></a>
 </div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![demo](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/mask-detection-sample.jpg?raw=true)
+![demo](https://github.com/him705075/Face--Mask--Detection/blob/main/mask-detection-sample.jpg?raw=true)
 
 ## :star: Features
 The Face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
@@ -46,12 +46,12 @@ The images used were real images of faces wearing masks and not wearing masks. T
 * __Kaggle datasets__ 
 * __RMFD dataset__  
 * __Open-Source Stock Image Websites__  
-<div align= "center"><img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/face_mask_detection_dataset.jpg?raw=true" /></div>
+<div align= "center"><img src="https://github.com/him705075/Face--Mask--Detection/blob/main/face_mask_detection_dataset.jpg?raw=true" /></div>
 
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/him705075/Face--Mask--Detection/blob/main/requirements.txt)
 
 
 ## Contributing 👷
@@ -81,11 +81,11 @@ git remote -v
 ```bash
 git push origin '<your_branch_name>'
 ```
-* Open a <a href="https://github.com/Ayushparikh-code/Face--Mask--Detection/pulls" title="Create Pull request">Pull Request</a>
+* Open a <a href="https://github.com/him705075/Face--Mask--Detection/pulls" title="Create Pull request">Pull Request</a>
 
 * Add Upstream
 ```bash
-git remote add upstream https://github.com/Ayushparikh-code/Face--Mask--Detection
+git remote add upstream https://github.com/him705075/Face--Mask--Detection
 ```
 ```bash
 git fetch upstream
@@ -134,7 +134,7 @@ git checkout '<your_branch_name>'
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/Ayushparikh-code/Face--Mask--Detection.git
+$ git clone https://github.com/him705075/Face--Mask--Detection.git
 ```
 
 2. Change your directory to the cloned repo 
@@ -149,7 +149,7 @@ $ pip install -r requirements.txt
 ## :bulb: Working
 
 <p align="centre">
-  <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/face_mask_detection_phases.png?raw=true">
+  <img src="https://github.com/him705075/Face--Mask--Detection/blob/main/face_mask_detection_phases.png?raw=true">
   
   
 1. Open terminal. Go into the cloned project directory and type the following command:
@@ -168,13 +168,13 @@ $ python detect_mask_video.py
 #### This model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow>=1.15.2</code>
 
 #### Here is the following accuracy/loss training curve plot
-![](https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/plot.png?raw=true)
+![](https://github.com/him705075/Face--Mask--Detection/blob/main/plot.png?raw=true)
 
 #### IMAGES
 <div align="center">
-  <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/face-mask-detection1.jpg?raw=true" width=400 height=340>
+  <img src="https://github.com/him705075/Face--Mask--Detection/blob/main/face-mask-detection1.jpg?raw=true" width=400 height=340>
   <br>
-  <img src="https://github.com/Ayushparikh-code/Face--Mask--Detection/blob/main/result3.jpg?raw=true" height=340/>
+  <img src="https://github.com/him705075/Face--Mask--Detection/blob/main/result3.jpg?raw=true" height=340/>
 </div>
 <hr>
 
@@ -183,7 +183,7 @@ $ python detect_mask_video.py
 <br>
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ayush Parikh</h4>
+<td align="center"><a href="https://github.com/him705075"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Himanshu Priyadarshi</h4>
 
 
 </tr>
@@ -214,7 +214,7 @@ Note: If you Like this project then just follow me👍 and Star✨ this reposito
 
 
 <p align="center">
-<a href="https://github.com/Ayushparikh-code/Face--Mask--Detection" title="Face--Mask--Detection Github">
+<a href="https://github.com/him705075/Face--Mask--Detection" title="Face--Mask--Detection Github">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     
 </a>
