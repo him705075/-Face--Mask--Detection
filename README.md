@@ -4,12 +4,6 @@
  <h4>Face Mask Detection system built with:--</h4>
 
 
-<a href="https://github.com/topics/python"><img alt="PYTHON" src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://github.com/topics/OpenCV"><img alt="OPENCV" src="https://img.shields.io/badge/OpenCV%20-%23E34F26.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-<a href="https://github.com/topics/tensorFlow"><img alt="TensorFlow" src="https://img.shields.io/badge/tensorFlow%20-%23E34F26.svg?&style=for-the-badge&logo=tensorFlow&logoColor=white"/></a>
-<a href="https://github.com/topics/Keras"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23E34F26.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
-</div>
-<div align="center">
 
 </div>
  
