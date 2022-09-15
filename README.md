@@ -3,8 +3,6 @@
 <div align= "center"><img src="https://github.com/him705075/Face--Mask--Detection/blob/main/download.png?raw=true" width="200" height="200"/>
  <h4>Face Mask Detection system built with:--</h4>
 
-
-
 </div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -169,21 +167,7 @@ $ python detect_mask_video.py
 </table>
 <br>  
 
-## 📌 Opensource Programs
 
-### This project is a part of following Open Source Program
-<br>
-
-<table style="width:80%;background-color:white;border-radius:30px;">
-    <tr>
-  <td>
-<center>
-  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png"></img></a>
-  </center>
-  </td>
-  </tr>
-</table>
-    <hr>
 
 
 
