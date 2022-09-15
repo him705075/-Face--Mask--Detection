@@ -11,21 +11,6 @@
 </div>
 <div align="center">
 
-<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/him705075"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
-
-<a href="https://github.com/him705075e/Face--Mask--Detection/watchers"><img src="https://img.shields.io/github/watchers/him705075/Face--Mask--Detection?style=flat"></a> 
-<a href="https://github.com/him705075/Face--Mask--Detection/graphs/contributors"><img src="https://img.shields.io/github/contributors/him705075/Face--Mask--Detection?color=brightgreen"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection/stargazers"><img src="https://img.shields.io/github/stars/him705075/Face--Mask--Detection?color=0059b3"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection/network/members"><img src="https://img.shields.io/github/forks/him705075/Face--Mask--Detection?color=yellow"></a>
-
-<a href="https://github.com/him705075e/Face--Mask--Detection/issues"><img src="https://img.shields.io/github/issues/him705075/Face--Mask--Detection?color=0059b3"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/him705075/Face--Mask--Detection?color=yellow"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection/pulls"><img src="https://img.shields.io/github/issues-pr/him705075/Face--Mask--Detection?color=brightgreen"></a>
-<a href="https://github.com/him705075/Face--Mask--Detection/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/him705075/Face--Mask--Detection?color=0059b3"></a>
 </div>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
